@@ -1,0 +1,55 @@
+body{
+  background: whitesmoke;
+}
+.image{
+  width: 5%;
+}
+#hng{
+  float:right ;
+  width: 90%;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+  background: whitesmoke;
+}
+/* .name{
+float: right;
+width: 60%;
+margin-top:15% ;
+} */
+.alao{
+  border-bottom:20px black;
+}
+#web{
+  padding: 10px;
+  width: 15%;
+}
+.texts{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; ;
+}
+.cv{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.profile-contact{
+  display: flex;
+}
+.edu-exp{
+  display: flex;
+}
+.contact, .exp{
+  margin-left: 20%;
+  border-bottom: 10px black ;
+}
+footer{
+  background: white;
+}
+.image2{
+  width: 5%;
+  display: flex;
+}
+#front{
+  font-family: 'Times New Roman', Times, serif;
+  color: gray;
+}
+
